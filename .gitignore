@@ -1,0 +1,14 @@
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# System Files
+.DS_Store
+Thumbs.db
+
+#vs
+.vscode/*
+
+Saleoff/node_modules/*
+Saleoff/.env
