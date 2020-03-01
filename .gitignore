@@ -10,5 +10,5 @@ Thumbs.db
 #vs
 .vscode/*
 
-Saleoff/node_modules/*
-Saleoff/.env
+node_modules/*
+.env
